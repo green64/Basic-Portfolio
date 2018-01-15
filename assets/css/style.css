@@ -2,6 +2,10 @@
 margin: auto;
 }
 
+a{
+    color:  #777777;
+}
+
 a:link{
         text-decoration: none;
         color:  #777777;
@@ -98,6 +102,16 @@ p.body {
 }
 
 p.section {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: right;
+    color: #777777;
+    text-align: left;
+    line-height: 150%;
+    margin-bottom: 8px;
+}
+
+ul.section {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 16px;
     text-align: right;
