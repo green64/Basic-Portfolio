@@ -140,9 +140,16 @@ p.form {
     margin-bottom: 3px;
 }
 
+input{
+    height: 40px;
+    width: 600px;
+    overflow: auto;
+}
+
 .button {
     background-color: #4aaaa5;
     border: none;
+    height: 50px;
     color: white;
     padding: 15px 32px;
     text-align: center;
