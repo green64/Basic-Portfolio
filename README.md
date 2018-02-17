@@ -1,4 +1,13 @@
+# Basic Portfolio
 [Basic Portfolio](https://green64.github.io/Basic-Portfolio/)
+
+**Object**
+
+The goal of assignment was to create a straigthforward three-page HTML site.
+
+***Technology used***
+
+HTML and CSS.
 
 This site is my first boot camp project. On a personal level, it represents the first step toward moving completely into web development, a discipline I've worked in part time or intermittently throughout my career. 
 
